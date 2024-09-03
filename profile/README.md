@@ -25,11 +25,14 @@ O **comprometimento** para atuar entendendo que o sucesso do projeto é o nosso 
 A **autenticidade** necessária para seguir nossos valores e ideais mesmo que outros não acreditem neles.
 
 > [!IMPORTANT]
-> Isso não negociamos.
+> Isso não negociamos em hipótese alguma.
 
 ## Entre em contato conosco ou conheça nossas redes sociais
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me//5516996462485?text=Ol%C3%A1!%0AGostaria%20de%20saber%20mais%20sobre%20os%20servi%C3%A7os.)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/sarsdev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarsdevsolucoes@gmail.com?subject=Primeiro contato&body=Olá! Gostaria de saber mais sobre a SarsDev.)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarsdevsolucoes@gmail.com?subject=Vi%20seu%20perfil%20no%20Github&body=Olá!%20Gostaria%20de%20saber%20mais%20sobre%20a%20SarsDev.)
 [![SiteSarsDev](https://img.shields.io/badge/Site%20SarsDev-102542?style=for-the-badge&logo=Microsoft%20Bing&logoColor=white)](https://sarsdev.com.br/index.html)
+
+> [!TIP]
+> Ficaremos felizes em falar contigo, e esteja à vontade para dar sugestões ou fazer críticas.
